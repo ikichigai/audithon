@@ -1,0 +1,8 @@
+{
+    "api": {
+        "http" : {
+            "baseURL": "https://demo-gap.gost-group.com/",
+            "authURL": "https://demo-gap.gost-group.com/auth"
+        }
+    }
+}
